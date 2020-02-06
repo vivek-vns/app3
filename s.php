@@ -9,4 +9,6 @@
 
 	echo "this is fifth line code";
 
+	echo "this is six line code";
+
 ?>	
